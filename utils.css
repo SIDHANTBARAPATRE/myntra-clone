@@ -1,0 +1,29 @@
+.flex
+{
+    display:flex;
+}
+.justify-content
+{
+   justify-content:center;
+}
+.align-item
+{
+   align-items:center;
+}
+.size
+{
+    height:17px;
+    width:17px;
+}
+.flex-wrap
+{
+    display:flex;
+    flex-wrap:wrap;
+}
+footer
+{
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 80px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 15px;
+}
